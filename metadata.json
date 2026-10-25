@@ -1,0 +1,6 @@
+{
+  "name": "Budget Tracker",
+  "description": "Personal Budget and Savings Tracker for income, expenses, DPS, fixed deposits, budgets, and financial reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
